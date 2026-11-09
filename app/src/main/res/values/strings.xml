@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Athletix AI</string>
+    <string name="app_slogan">TRAIN SMARTER. LIVE STRONGER.</string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_workout">Entraînement</string>
+    <string name="nav_nutrition">Nutrition</string>
+    <string name="nav_progress">Progrès</string>
+    <string name="nav_profile">Profil</string>
+    <string name="ai_coach_title">ATHLETIX AI COACH</string>
+    <string name="firebase_declined_notice">Le service Firebase AI Logic / Firestore a été refusé lors de la configuration. Les réponses IA utilisent actuellement le moteur déterministe d\'exemples locaux et vos données sont stockées localement (Room SQLite).</string>
+</resources>

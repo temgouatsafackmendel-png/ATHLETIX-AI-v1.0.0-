@@ -1,0 +1,6 @@
+{
+  "name": "Athletix AI",
+  "description": "Plateforme personnelle d'intelligence sportive : entraînement, nutrition, suivi corporel et coach IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
